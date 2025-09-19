@@ -12,7 +12,7 @@
 - .NET Framework 4.8  
 
 **下载与运行**  
-1. 前往 [Releases](#) 下载最新版本  
+1. 前往 [[Releases]](https://github.com/ChaoJie-W/SeeBigA/releases/tag/v1.1)(#) 下载最新版本  
 2. 解压缩  
 3. 双击 `SeeBigA.exe` 即可运行  
 
