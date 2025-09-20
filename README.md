@@ -1,6 +1,6 @@
 # SeeBigA 💹
 
-一款轻量级桌面工具，让你随时随地**偷瞄股票**。  
+桌面隐蔽看股神器，让你随时随地**偷瞄股票**。  
 让你在工作或学习时，也能随时盯盘。
 
 ---
@@ -8,11 +8,11 @@
 ## 📦 安装
 
 **系统要求**  
-- Windows XP ~ Windows 11  
-- .NET Framework 4.8  
+- **Windows 10 / Windows 11** → 直接运行，无需额外安装  
+- **Windows 7 及以下** → 需先安装 [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)  
 
 **下载与运行**  
-1. 前往 [[Releases]](https://github.com/ChaoJie-W/SeeBigA/releases/tag/v1.1)(#) 下载最新版本  
+1. 前往 [[Releases]](https://github.com/ChaoJie-W/SeeBigA/releases/tag/v1.1)下载最新版本  
 2. 解压缩  
 3. 双击 `SeeBigA.exe` 即可运行  
 
