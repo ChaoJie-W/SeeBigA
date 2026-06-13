@@ -13,7 +13,7 @@ namespace StockViewer
         private Button _colorButton;
         private Panel _colorPanel;
         private Button _okButton;
-        private Button _cancelButton;
+        private Button _cancelButton;                   
 
         public ColorSettingsForm(AppSettings settings)
         {
@@ -24,13 +24,15 @@ namespace StockViewer
 
         private void InitializeComponent()
         {
-            // Form设置
-            this.Text = "颜色设置";
-            this.Size = new Size(420, 350);
-            this.FormBorderStyle = FormBorderStyle.FixedDialog;
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
-            this.StartPosition = FormStartPosition.CenterParent;
+            Text = "颜色设置";
+            ClientSize = new Size(420, 240);
+            MinimumSize = new Size(380, 220);
+            FormBorderStyle = FormBorderStyle.Sizable;
+            MaximizeBox = true;
+            MinimizeBox = false;
+            StartPosition = FormStartPosition.CenterParent;
+            AutoScaleMode = AutoScaleMode.Dpi;
+            AutoScroll = true;
 
             // 颜色模式组
             var groupBox = new GroupBox();
@@ -84,17 +86,19 @@ namespace StockViewer
             // 按钮 - 位置调整到窗口底部
             _okButton = new Button();
             _okButton.Text = "确定";
-            _okButton.Location = new Point(215, 280);
+            _okButton.Location = new Point(235, 170);
             _okButton.Size = new Size(75, 30);
             _okButton.DialogResult = DialogResult.OK;
+            _okButton.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             _okButton.Click += OkButton_Click;
             this.Controls.Add(_okButton);
 
             _cancelButton = new Button();
             _cancelButton.Text = "取消";
-            _cancelButton.Location = new Point(300, 280);
+            _cancelButton.Location = new Point(320, 170);
             _cancelButton.Size = new Size(75, 30);
             _cancelButton.DialogResult = DialogResult.Cancel;
+            _cancelButton.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             this.Controls.Add(_cancelButton);
 
             this.AcceptButton = _okButton;

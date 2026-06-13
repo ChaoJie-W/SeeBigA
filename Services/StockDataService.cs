@@ -46,6 +46,11 @@ namespace StockViewer
             }
         }
 
+        public string NormalizeStockCode(string stockCode)
+        {
+            return FormatStockCode(stockCode);
+        }
+
         private string FormatStockCode(string stockCode)
         {
             // 处理股票代码格式

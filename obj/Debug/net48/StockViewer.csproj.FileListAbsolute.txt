@@ -1,0 +1,17 @@
+D:\code\SeeBigA2\bin\Debug\net48\StockViewer.exe.config
+D:\code\SeeBigA2\bin\Debug\net48\StockViewer.exe
+D:\code\SeeBigA2\bin\Debug\net48\StockViewer.pdb
+D:\code\SeeBigA2\bin\Debug\net48\Newtonsoft.Json.dll
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.csproj.AssemblyReference.cache
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.AssemblyInfoInputs.cache
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.AssemblyInfo.cs
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.csproj.CoreCompileInputs.cache
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.sourcelink.json
+D:\code\SeeBigA2\obj\Debug\net48\StockVie.89BD6889.Up2Date
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.exe
+D:\code\SeeBigA2\obj\Debug\net48\StockViewer.pdb
+D:\code\SeeBigA2\bin\verify\net48\StockViewer.exe.config
+D:\code\SeeBigA2\bin\verify\net48\StockViewer.exe
+D:\code\SeeBigA2\bin\verify\net48\StockViewer.pdb
+D:\code\SeeBigA2\bin\verify\net48\Newtonsoft.Json.dll
